@@ -1,0 +1,10 @@
+#!/bin/bash
+su betty
+`:wq`
+:wq
+':q'
+:q!
+Enter
+
+Esc
+
